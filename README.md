@@ -1,5 +1,7 @@
 # eslint-plugin-homezen
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SpainTrain/eslint-plugin-homezen.svg)](https://greenkeeper.io/)
+
 Presets and rules for HomeZen
 
 ## Installation
